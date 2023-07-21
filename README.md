@@ -8,5 +8,10 @@ features of note
 * quiet
 * good for code caves
 
+how?
+* aliases/cmdlets->.net
+* invokes
+* secret sauce, deobfuscate and debug to find out
+
 
 enjoy the funnybytes
